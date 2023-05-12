@@ -13,8 +13,7 @@ choco update chocolatey
 ```
 
 ```
-choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio powertoys dbeaver
-choco install vscode
+choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio powertoys dbeaver vscode
 ```
 
 ```
