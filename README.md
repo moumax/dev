@@ -7,21 +7,17 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install chocolateygui
 
 // software to install :
-nvidia-display-driver
-brave
-transmission
-mysql workbench
-postman
-vlc-nightly
-runjs
-firefox
-adobereader
-ferdium
-vscode
-ocenaudio
-intellijidea-ultimate
+choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio
 
-gimp
+choco install vscode
 
 // To upgrade
 choco upgrade all --except="'skype,conemu'"
+
+// Install wsl
+``
+// In powershell admin mode :
+
+wsl --list --online
+wsl --install -d <Distribution Name>
+``
