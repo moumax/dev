@@ -1,6 +1,6 @@
 # dev-env
 
-``
+``bash
 Set-ExecutionPolicy AllSigned
 ``
 
