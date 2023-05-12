@@ -6,10 +6,10 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 choco install chocolateygui
 
-// software to install :
+``bash
 choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio
-
 choco install vscode
+``
 
 // To upgrade
 choco upgrade all --except="'skype,conemu'"
