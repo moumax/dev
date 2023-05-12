@@ -1,5 +1,8 @@
 # dev-env
 
+## TERMINAL PREVIEW
+Change powershell to run on admin on only
+
 ## POWERSHELL
 ```
 Set-ExecutionPolicy AllSigned
