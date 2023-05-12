@@ -29,7 +29,7 @@ wsl --install -d <Distribution Name>
 ```
 
 ## FONT WINDOWS TERMINAL
-https://www.marksimonson.com/fonts/view/anonymous-pro
+[Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 wsl by default
 change font on terminal preview
 change transparency 70%
