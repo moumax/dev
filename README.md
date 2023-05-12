@@ -10,6 +10,7 @@ Set-ExecutionPolicy AllSigned
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
+___
 ## CHOCO
 ```powershell
 choco update chocolatey
@@ -19,7 +20,7 @@ choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenau
 ```powershell
 choco upgrade all --except="'skype,conemu'"
 ```
-
+___
 ## WSL
 
 ```powershell
@@ -28,13 +29,13 @@ wsl --list --online
 ```powershell
 wsl --install -d <Distribution Name>
 ```
-
+___
 ## FONT WINDOWS TERMINAL
 [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 wsl by default
 change font on terminal preview
 change transparency 70%
-
+___
 ## ZSH
 ```bash
 sudo apt install zsh
@@ -42,7 +43,7 @@ chsh -s $(which zsh)
 exit
 q
 ```
-
+___
 ## OHMYZSH
 
 ```bash
@@ -63,14 +64,14 @@ plugins=(
 ```bash
 source .zshrc
 ```
-
+___
 ## NVM
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | zsh
 source ~/.zshrc
 nvm install --lts
 ```
-
+___
 ## GIT
 ```bash
 ssh-keygen -t ed25519 -C "marc.lantol@gmail.com"
@@ -87,8 +88,8 @@ git config --global init.defaultBranch main
 ```
 
 ### ADD GIT KEY
-[github](https://github.com/settings/keys)
-
+[github key](https://github.com/settings/keys)
+___
 ## MYSQL
 ```bash
 sudo apt install mysql-server
@@ -114,14 +115,17 @@ GRANT ALL PRIVILEGES ON *.* TO 'marco'@'localhost';
 ```sql
 exit
 ```
+___
 
 ## SPEEDUP KEYBOARD
 HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response
-
+```
 AutoRepeatDelay = 200
 AutoRepeatRate = 9
 DelayBeforeAcceptance = 0
 Flags = 59
+```
+___
 
 ## VSCODE
 Retreive github config
