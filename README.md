@@ -63,4 +63,62 @@ plugins=(
 source .zshrc
 ```
 
+## NVM
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | zsh
+source ~/.zshrc
+nvm install --lts
+```
+
+## GIT
+```
+ssh-keygen -t ed25519 -C "marc.lantol@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+```
+
+### GIT CONFIG
+```
+git config --global user.name "Marc LANTOL"
+git config --global user.email "marc.lantol@gmail.com"
+git config --global init.defaultBranch main
+```
+
+### ADD GIT KEY
+[github](https://github.com/settings/keys)
+
+## MYSQL
+```
+sudo apt install mysql-server
+sudo update-rc.d mysql defaults
+sudo mysql
+```
+```
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password by '********';
+exit
+```
+```
+sudo mysql_secure_installation
+```
+```
+mysql -h 127.0.0.1 -P 3306 -u root -p
+```
+```
+CREATE USER 'marco'@'localhost' IDENTIFIED BY '******';
+```
+```
+GRANT ALL PRIVILEGES ON *.* TO 'marco'@'localhost';
+```
+```
+exit
+```
+
+## SPEEDUP KEYBOARD
+HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response
+
+AutoRepeatDelay = 200
+AutoRepeatRate = 9
+DelayBeforeAcceptance = 0
+Flags = 59
 
