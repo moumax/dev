@@ -124,3 +124,7 @@ AutoRepeatRate = 9
 DelayBeforeAcceptance = 0
 Flags = 59
 
+## VSCODE
+Retreive github config
+Install extensions also on wsl
+
