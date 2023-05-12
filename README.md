@@ -15,9 +15,7 @@ choco install vscode
 choco upgrade all --except="'skype,conemu'"
 
 // Install wsl
-``
-// In powershell admin mode :
-
+`` bash
 wsl --list --online
 wsl --install -d <Distribution Name>
 ``
