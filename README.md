@@ -131,3 +131,17 @@ ___
 Retreive github config
 Install extensions also on wsl
 
+## NVIM
+```
+sudo apt install software-properties-common -y
+sudo add-apt-repository ppa:neovim-ppa/unstable -y
+sudo apt-get update
+sudo apt install neovim -y
+```
+### RIPGREP
+```
+sudo apt-get install ripgrep
+```
+### NVCHAD
+https://nvchad.com/
+
