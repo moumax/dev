@@ -1,5 +1,5 @@
 # tools
 
-- [navigateur-terminal-carbonyle](https://github.com/fathyb/carbonyl)
+- [navigateur-terminal-carbonyl](https://github.com/fathyb/carbonyl)
 
 - [vim-framework-nvchad](https://nvchad.com/)
