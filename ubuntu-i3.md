@@ -25,3 +25,6 @@ sudo apt install neovim -y
 
 ## Change battery display
 [i3-man](https://faq.i3wm.org/question/6140/wrong-battery-percentage-shown-in-status-bar.1.html)
+
+## Change brightness
+[to-try](https://unix.stackexchange.com/questions/526653/control-screen-brightness-in-i3)
