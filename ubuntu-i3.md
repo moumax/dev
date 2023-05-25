@@ -10,6 +10,13 @@ sudo apt install kitty
 ## Install google chrome
 [google-chrome-stable](https://doc.ubuntu-fr.org/google_chrome)
 
+## Install neovim
+```bash
+sudo apt install software-properties-common -y
+sudo add-apt-repository ppa:neovim-ppa/unstable -y
+sudo apt-get update
+sudo apt install neovim -y
+```
 
 ## Modify bar on i3
 ```bash
