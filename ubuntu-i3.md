@@ -60,3 +60,9 @@ plugins=(
     zsh-syntax-highlighting
 )
 ```
+
+## Nvchad
+```bash
+sudo apt-get install ripgrep
+sudo apt install build-essential
+```
