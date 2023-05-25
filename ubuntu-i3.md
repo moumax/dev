@@ -28,3 +28,35 @@ sudo apt install neovim -y
 
 ## Change brightness
 [to-try](https://unix.stackexchange.com/questions/526653/control-screen-brightness-in-i3)
+
+## Git
+```bash
+sudo apt install git
+```
+## Zsh
+```bash
+sudo apt install zsh
+chsh -s $(which zsh)
+```
+## curl
+```bash
+sudo apt install curl
+```
+
+## Ohmyzsh
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+// git clone some plugins
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+
+ZSH_THEME="gnzh"
+
+plugins=(
+    git
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+)
+```
