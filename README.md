@@ -14,7 +14,7 @@ ___
 ## CHOCO
 ```powershell
 choco update chocolatey
-choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio powertoys dbeaver vscode transmission
+choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio powertoys dbeaver vscode transmission googlechrome
 ```
 
 ```powershell
@@ -132,7 +132,7 @@ Retreive github config
 Install extensions also on wsl
 
 ## NVIM
-```
+```bash
 sudo apt install software-properties-common -y
 sudo add-apt-repository ppa:neovim-ppa/unstable -y
 sudo apt-get update
