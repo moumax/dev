@@ -14,7 +14,7 @@ ___
 ## CHOCO
 ```powershell
 choco update chocolatey
-choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio powertoys dbeaver vscode
+choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio powertoys dbeaver vscode transmission
 ```
 
 ```powershell
