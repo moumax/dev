@@ -12,6 +12,11 @@
 ## Install NINA
 [nina-install-page](https://nighttime-imaging.eu/download/)
 
+## Install sky atlas image repository
+[sky-atlas](https://nighttime-imaging.eu/download/)
+- Unzip in Images
+- Provide the link in nina's config panel
+
 ## Install phd2
 [phd2](https://openphdguiding.org/development-snapshots/)
 
