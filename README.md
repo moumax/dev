@@ -13,7 +13,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ___
 ## CHOCO
 ```powershell
-choco update chocolatey
+choco upgrade chocolatey
 choco install nvidia-display-driver vlc-nightly runjs firefox adobereader ocenaudio powertoys dbeaver vscode transmission googlechrome
 ```
 
@@ -133,7 +133,7 @@ Install extensions also on wsl
 
 ## NVIM
 ```bash
-sudo apt install software-properties-common -y
+sudo apt install build-essential software-properties-common -y
 sudo add-apt-repository ppa:neovim-ppa/unstable -y
 sudo apt-get update
 sudo apt install neovim -y
