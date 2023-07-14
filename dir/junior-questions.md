@@ -1,0 +1,82 @@
+# Js
+- What is an Event loop?
+- What are the various data types that exist in JavaScript?
+- Difference between Primitive and non-primitive?
+- What are the scopes of a variable in JavaScript?
+- What is Hoisting in JS?
+- What is the ‘this’ keyword in JavaScript?
+- What is ES6/ES7?
+- What is the difference between var, let, and const?
+- What is Callback in JavaScript?
+- What is the difference between splice and slice?
+- What is the difference between a map and foreach?
+- What is the difference between an arrow function and a normal function?
+- What is a generator function?
+- What is the difference between cookies, sessions, and local storage?
+- What are Closures in JavaScript?
+- What is the difference between Document and Window in JavaScript?
+- What is the difference between Undefined and Undeclared in JavaScript?
+- What is the difference between Call and Apply?
+- Difference between “ == “ and “ === “ operators?
+- What is NaN property in JavaScript?
+- What is the difference between Passed by value and passed by reference?
+- What is an Immediately Invoked Function in JavaScript?
+- What are Higher Order Functions?
+- What is currying in JavaScript?
+- How many Types of errors are in JavaScript?
+- What is BOM?
+- Difference between client-side and server-side?
+- What is a spread operator?
+- What are promises in JS?
+- What is Object Destructuring?
+- Difference between Async and Promise?
+- What is the role of deferred scripts?
+- What is the difference between Event Capturing and Event Bubbling?
+- What is the Strict mode in JavaScript?
+- What is the difference between filter and find?
+- Is JavaScript Case-Sensitive?
+- How can you convert an object to an array?
+- What Is Garbage Collection in JavaScript?
+
+# React
+- Differentiate between Real DOM and Virtual DOM.
+- What is the significance of keys in React?
+- What is the purpose of render() in React?
+- What are Props?
+- What is a state in React?
+- Differentiate between stateful and stateless components.
+- What are lifecycle methods in React?
+- What is the difference between class and functional components?
+- What is an event in React?
+- What are Refs in React?
+- Explain useEffect in detail?
+- What are Higher Order Components(HOC)?
+- What are Pure Components?
+- What is the significance of keys in React?
+- What is JSX?
+- What is Redux?
+- What are the principles of Redux?
+- How can you access value from Redux?
+- What is the difference between controlled and uncontrolled components?
+- What is the difference between useMemo and useCallback?
+- What is the difference between useEffect and useLayoutEffect?
+- What is SPA?
+- What are custom hooks?
+- When to use util or custom hook?
+- How do you handle optimization in a large React application?
+- What is Context API?
+- Explain the concept of a Portal in React?
+- How do you handle asynchronous data loading in a React application?
+- How do you handle localization in a React application?
+- What is the difference between static and dynamic components in React?
+- How do you handle server-side rendering in a React application?
+- What is PropTypes?
+- Explain the concept of Memoization in React?
+- Does React have one or two-way binding?
+- How do you send data from the child to the parent component?
+- Does useEffect triggers when we change by reference?
+- How to convert functional components to pure components?
+- What is Axios interceptor?
+- How to validate forms in React?
+- What is unit testing?
+- What is JWT?
