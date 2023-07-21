@@ -35,7 +35,7 @@ wsl --install -d <Distribution Name>
 ```
 ___
 ## FONT WINDOWS TERMINAL
-[Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+[jetbrains mono](https://www.jetbrains.com/fr-fr/lp/mono/)
 wsl by default
 change font on terminal preview
 change transparency 70%
