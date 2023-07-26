@@ -8,6 +8,6 @@
 
 - [face-check-id](https://facecheck.id/)
 
-- [gum](https://github.com/charmbracelet/gum)
-
 - [vectorizer](https://vectorizer.ai/)
+
+- [gum](https://github.com/charmbracelet/gum)
