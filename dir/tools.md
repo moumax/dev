@@ -7,3 +7,5 @@
 - [ddmm-ia-image-browser](https://ddmm.ai/)
 
 - [face-check-id](https://facecheck.id/)
+
+- [gum](https://github.com/charmbracelet/gum)
