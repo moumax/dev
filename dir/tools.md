@@ -11,3 +11,5 @@
 - [vectorizer](https://vectorizer.ai/)
 
 - [gum](https://github.com/charmbracelet/gum)
+
+- [superImage](https://github.com/Lucchetto/SuperImage)
