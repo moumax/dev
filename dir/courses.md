@@ -8,3 +8,5 @@
 
 ## React
 - [react-gg](https://react.gg/)
+- [reacterry](https://landing.reacterry.com/)
+- [react-quizz](https://dev.to/quizzes4u/react-quiz-on-jsx-01-react-jsx-complete-guide-b17)
