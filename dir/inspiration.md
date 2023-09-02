@@ -3,6 +3,7 @@
 - [chartogne-taillet](https://chartogne-taillet.com/fr)
 
 - [bruno-simon](https://bruno-simon.com/)
+- [bruno-simon-selection](https://threejs-journey.com/selection/1)
 
 - [nick-schot](https://nickschot.github.io/)
 
@@ -26,4 +27,3 @@
 
 - [huwroberts](https://huwroberts.net/)
 
-- [bruno-simon-selection](https://threejs-journey.com/selection/1)
