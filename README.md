@@ -18,7 +18,7 @@ choco upgrade chocolatey
 choco install vlc runjs dbeaver adobereader ocenaudio powertoys vscode
 
 //desktop
-choco install nvidia-display-driver vlc runjs adobereader ocenaudio dbeaver vscode msiafterburner
+choco install nvidia-display-driver vlc runjs adobereader ocenaudio dbeaver vscode msiafterburner steam
 ```
 
 ```powershell
