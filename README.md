@@ -12,15 +12,18 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 ___
 ## CHOCO
-```powershell
-choco upgrade chocolatey
-//laptop
-choco install vlc runjs dbeaver adobereader ocenaudio powertoys vscode
 
-//desktop
-choco install nvidia-display-driver vlc runjs adobereader ocenaudio dbeaver vscode msiafterburner steam
+### Laptop
+```powershell
+choco install vlc runjs dbeaver adobereader ocenaudio powertoys vscode
 ```
 
+### Desktop
+```powershell
+choco install nvidia-display-driver vlc runjs adobereader ocenaudio dbeaver vscode msiafterburner steam git obsidian
+```
+
+### Update
 ```powershell
 choco upgrade all --except="'skype,conemu'"
 ```
