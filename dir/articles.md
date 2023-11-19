@@ -15,3 +15,5 @@
 - [js-101-concept-to-know](https://dev.to/in/101-javascript-concepts-you-need-to-know-59h8)
 
 - [git-workflow-with-examples](https://blog.stackademic.com/the-ultimate-guide-to-mastering-gitflow-with-real-examples-and-schemas-a6d3b760487a)
+
+- [30-js-oneliners](https://dev.to/taqui/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el)

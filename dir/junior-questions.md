@@ -1,4 +1,7 @@
-# Js
+# Junior questions
+
+## Javascript
+
 - What is an Event loop?
 - What are the various data types that exist in JavaScript?
 - Difference between Primitive and non-primitive?
@@ -38,7 +41,8 @@
 - How can you convert an object to an array?
 - What Is Garbage Collection in JavaScript?
 
-# React
+## React
+
 - Differentiate between Real DOM and Virtual DOM.
 - What is the significance of keys in React?
 - What is the purpose of render() in React?
